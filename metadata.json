@@ -1,0 +1,7 @@
+{
+  "name": "NOVA FURNITURE - Premium Luxury Furniture",
+  "description": "Timeless modern furniture for every room. Handcrafted sofas, dining tables, accent chairs, bedroom furniture, and curated interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
